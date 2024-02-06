@@ -70,7 +70,7 @@ header > p{
    font-family: var(--fonte-padrao);
    max-width: 500px;
    margin: auto;
-   margin-bottom: 20px;
+   padding-bottom: 50px;
 }
 nav {
    background-color: var(--cor0);
